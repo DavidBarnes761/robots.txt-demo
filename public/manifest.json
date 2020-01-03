@@ -1,0 +1,6 @@
+{
+  "main.js": "render-page.js",
+  "main.js.map": "render-page.js.map",
+  "static/hero-small.jpg": "static/hero-small-90c247a8d14d9c459173d9e53799a865.jpg",
+  "static/hero.jpg": "static/hero-80a668bd7ab32190e4436cb5ea9392c4.jpg"
+}
